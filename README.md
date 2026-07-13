@@ -15,7 +15,7 @@
 
 - 🎓 Pursuing **Bachelor of Computer Applications (BCA)**
 - 💻 Passionate about **Software Development**
-- 🌱 Currently learning **Python, Java, SQL, HTML, CSS, JavaScript**
+- 🌱 Currently learning **Python, SQL, HTML, CSS, JavaScript**
 - 🚀 Exploring **Django, Flask, Docker, Kubernetes & Cloud**
 - 📚 Practicing **Data Structures & Algorithms**
 - 🎯 Goal: **Become a Software Engineer**
