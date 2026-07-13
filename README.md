@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Deelip</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=2EA3F7&center=true&vCenter=true&width=600&lines=Aspiring+Software+Engineer+%F0%9F%9A%80;BCA+Student+%F0%9F%8E%93;Learning+Python%2C+Java%2C+SQL%2C+Django%2C+Flask;Exploring+Docker+%26+Kubernetes+%E2%9C%A8;DSA+Enthusiast+%F0%9F%A7%A0" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=2EA3F7&center=true&vCenter=true&width=600&lines=Aspiring+Software+Engineer+%F0%9F%9A%80;BCA+Student+%F0%9F%8E%93;Learning+Python%2C+SQL%2C+Django%2C+Flask;Exploring+Docker+%26+Kubernetes+%E2%9C%A8;DSA+Enthusiast+%F0%9F%A7%A0" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -48,7 +48,6 @@
 
 <p align="left">
   <img src="https://img.shields.io/badge/Python-Programming-blue?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Java-Programming-orange?style=for-the-badge&logo=openjdk&logoColor=white" />
   <img src="https://img.shields.io/badge/Django-%26%20Flask-092E20?style=for-the-badge&logo=django&logoColor=white" />
   <img src="https://img.shields.io/badge/REST-APIs-green?style=for-the-badge&logo=fastapi&logoColor=white" />
   <img src="https://img.shields.io/badge/Docker-Containers-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
