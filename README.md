@@ -55,7 +55,7 @@ I enjoy learning new technologies, solving programming problems, building real-w
 ## 📚 Currently Learning
 
 ```text
-Python              ████████████████████░░  90%
+Python             ████████████░░░░░░░░░░░ 90%
 DSA                 ███████████████░░░░░░░  70%
 SQL                 ███████████████░░░░░░░  70%
 Backend Development ████████████░░░░░░░░░░  60%
