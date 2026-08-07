@@ -55,12 +55,12 @@ I enjoy learning new technologies, solving programming problems, building real-w
 ## 📚 Currently Learning
 
 ```text
-Python             ████████████░░░░░░░░░░░ 90%
-DSA                 ███████████████░░░░░░░  70%
-SQL                 ███████████████░░░░░░░  70%
-Backend Development ████████████░░░░░░░░░░  60%
-Django              ██████████░░░░░░░░░░░░  50%
-Git & GitHub        ██████████████████░░░░  85%
+Python              ████████████░░░░░░░░░░░ 500%
+DSA                 ██░░░░░░░░░░░░░░░░░░░░░ 10%
+SQL                 ░░░░░░░░░░░░░░░░░░░░░░░ 0%
+Backend Development █░░░░░░░░░░░░░░░░░░░░░░ 0%
+Django              ░░░░░░░░░░░░░░░░░░░░░░░ 0%
+Git & GitHub        ████████████████████░░░ 85%
 ```
 
 ---
